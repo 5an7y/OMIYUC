@@ -15,7 +15,7 @@ Wallpaper=https://github.com/5an7y/OMIYUC/blob/main/Logo.png
 WallpaperSha256=eeef739815ca231d2afc427ae329ba8bef7858e412efb719659dc64144d8343a
 
 [Contest]
-AllowedWebsites=https://omegaup.com/arena/Prueba_YUC24|https://omegaup.com/login|
+AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|programming/codeblocks|programming/vim|programming/vscode|
 Bookmarks={Concurso^https://omegaup.com/arena/Prueba_YUC24}|
