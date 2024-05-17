@@ -12,7 +12,7 @@ AllowUsbStorage=true
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
 Bookmarks={omegaup^https://omegaup.com/}|
 Wallpaper=https://github.com/5an7y/OMIYUC/blob/main/Logo.png
-WallpaperSha256=c382c20791695176be47257ec924c9df39e40534d4ac02fb23c4f3c823334fd8
+WallpaperSha256=eeef739815ca231d2afc427ae329ba8bef7858e412efb719659dc64144d8343a
 
 [Contest]
 AllowedWebsites=https://omegaup.com/arena/Prueba_YUC24|https://omegaup.com/login|
@@ -20,7 +20,7 @@ AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|programming/codeblocks|programming/vim|programming/vscode|
 Bookmarks={Concurso^https://omegaup.com/arena/Prueba_YUC24}|
 Wallpaper=https://github.com/5an7y/OMIYUC/blob/main/Logo.png
-WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
+WallpaperSha256=eeef739815ca231d2afc427ae329ba8bef7858e412efb719659dc64144d8343a
 
 [Contest-Times]
 2024-05-14T16:00:00 2024-05-17T23:59:00
