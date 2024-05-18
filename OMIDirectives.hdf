@@ -18,9 +18,9 @@ WallpaperSha256=eeef739815ca231d2afc427ae329ba8bef7858e412efb719659dc64144d8343a
 AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|programming/codeblocks|programming/vim|programming/vscode|
-Bookmarks={Concurso^https://omegaup.com/arena/Prueba_YUC24}|
+Bookmarks={Concurso^https://omegaup.com/arena/OMIYUC2024_P1}|
 Wallpaper=https://raw.githubusercontent.com/5an7y/OMIYUC/main/Logo.png
 WallpaperSha256=eeef739815ca231d2afc427ae329ba8bef7858e412efb719659dc64144d8343a
 
 [Contest-Times]
-2024-05-14T16:00:00 2024-05-17T23:59:00
+2024-05-18T8:50:00 2024-05-18T13:00:00
